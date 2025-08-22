@@ -1,2 +1,8 @@
 @charset "UTF-8";
 
+:root {
+    --cor0: #206767;
+    --cor1: #7fe7e7;
+
+    --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
+}
