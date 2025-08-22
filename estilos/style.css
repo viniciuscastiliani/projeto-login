@@ -15,7 +15,7 @@
 }
 
 body, html {
-    background-color: var(--cor0);    
+    background-image: linear-gradient(to bottom, #7fe7e7, #206767);   
     height: 100vh;
     width: 100vw;
 }
@@ -36,6 +36,8 @@ section#login {
     box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.335);
     border-radius: 20px;
     overflow: hidden;
+    transition: width .3s, height .3s;
+    transition-timing-function: ease;
 }
 
 
