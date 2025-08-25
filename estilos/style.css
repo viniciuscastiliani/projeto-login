@@ -49,13 +49,14 @@ section#login > div#imagem {
         
 }
 
-section#login > div#formulario > h1 {
+div#formulario > h1 {
     color: var(--cor0);
     text-align: center;
-    padding: 5px;
+    padding: 8px;
 }
 
-section#login > div#formulario > p {
+div#formulario > p {
     text-align: center;
-    padding: 10px;
+    padding: 8px;
+    font-size: 0.8em;
 }
